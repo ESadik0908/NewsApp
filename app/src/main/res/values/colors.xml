@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Custom colour values as well as black and white for easy reference-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_green">#9ef097</color>
+    <color name="nav_black">#1E1E24</color>
+    <color name="bg_black">#292828</color>
+    <color name="faded_green">#659EF097</color>
+    <color name="title_bg">#A4292828</color>
+</resources>
